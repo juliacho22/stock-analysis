@@ -5,17 +5,17 @@ This project analyzes the annual performance of 12 stocks. One will be able to i
 ## Results 
 ### 2017 Analysis
 Based on the 2017 analysis, one can see that overall the stocks performed well. All stocks but one (TERP) had positive returns. Specifically DQ, ENPH, FLSR and SEDG had over 100% in their annual returns. Based on this, we can conclude that the year 2017 was a successful year for the majority of these companies. The analysis was able to be sped up by approximately 0.01 seconds by refactoring the code. 
-Below is the analysis ran with the original code
+Following is the analysis ran with the original code
 ![coderuntime_2017_original](https://github.com/juliacho22/stock-analysis/blob/main/Resources/coderuntime_2017_original.PNG)
-Bellow is the analsys ran with the refactored code
+Following is the analsys ran with the refactored code
 ![coderuntime_2017_refactored](https://github.com/juliacho22/stock-analysis/blob/main/Resources/coderuntime_2017_refactored.PNG)
 
 
 ### 2018 Analysis
 Based on the 2018 analysis, one can see that overall the stocks did not peform well. All stocks but two (ENPH and RUN) had negative numbers. ENPH had a return of 81.9% and RUN had a return of 84%. Based on this we can conclude that the year 2018 was an unsuccessful year for the majority of these companies. This analysis was also sped by up approximately 0.01 seconds by refactoring the code. 
-Below is the analysis ran with the original code
+Following is the analysis ran with the original code
 ![coderuntime_2018_original](https://github.com/juliacho22/stock-analysis/blob/main/Resources/coderuntime_2018_original.PNG)
-Bellow is the analsys ran with the refactored code
+Following is the analsys ran with the refactored code
 ![coderuntime_2018_refactored](https://github.com/juliacho22/stock-analysis/blob/main/Resources/coderuntime_2018_refactored.PNG)
 
 ### Recommendation
